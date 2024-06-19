@@ -1,0 +1,12 @@
+{
+    "Main_Menu":[
+      {
+          "ItemName":"Biriyanis",
+          "ItemDescription": "Select and Order delicious Biriyanis with in wide range Veg and Non veg!"
+      },
+      {
+          "ItemName":"Tiffins",
+          "ItemDescription": "Select and Order delicious Biriyanis with in wide range Veg and Non veg!"
+      }
+    ]
+}
