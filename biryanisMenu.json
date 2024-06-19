@@ -1,8 +1,8 @@
 {
-    "Biriyani_Menu":[
+    "subMenu":[
       {
           "ItemName":"Chicken Biriyani",
-		      "ItemImage":"https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2047827035.jpg",
+	  "ItemImage":"https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2047827035.jpg",
           "ItemDescription": "Delicious Chicken Biriyani with fresh chicken and selected spices",
           "ItemPrice": "$22.00"
       },
