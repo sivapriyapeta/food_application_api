@@ -20,7 +20,7 @@
           "ItemImage":"https://f.hubspotusercontent00.net/hubfs/4662006/Beverage_compounds_drinks.jpg",
           "ItemDescription": "Select and Order Beverages to cool your body"
       },    
-	  {
+      {
           "ItemName":"Sweets",
           "ItemImage":"https://the-baklawa-box.myshopify.com/cdn/shop/products/assorted-indian-fusion-sweets-400g-119845_400x.jpg?v=1677085667",
           "ItemDescription": "Select and Order delicious fresh and juicy ghee sweets."
@@ -29,6 +29,6 @@
           "ItemName":"IceCream",
           "ItemImage":"https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2022/08/Ice-cream-sundae-hero-11.jpg",
           "ItemDescription": "Select and Order ice-cream prepared with fresh water and fruits"
-      }, 
+      }
     ]
 }
