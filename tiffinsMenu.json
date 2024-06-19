@@ -1,0 +1,40 @@
+{
+    "Tiffins_Menu":[
+      {
+          "ItemName":"Chicken Biriyani",
+	        "ItemImage":"https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2047827035.jpg",
+          "ItemDescription": "Delicious Chicken Biriyani with fresh chicken and selected spices",
+          "ItemPrice": "$22.00"
+      },
+      {
+          "ItemName":"Mutton Biriyani",
+          "ItemImage":"https://www.justgotochef.com/uploads/1573207281-south%20indi%20breakfast.jpg",
+          "ItemDescription": "Delicious Mutton Biriyani with fresh meat and marinated with hand picked spices and ghee roasted egg.",
+          "ItemPrice": "$25.00"
+      },
+      {
+          "ItemName":"Prawns Biriyani",
+          "ItemImage":"https://t3.ftcdn.net/jpg/06/50/60/46/360_F_650604677_lQDktDtlSu3jQTlctUpKPTcKahdrw0am.jpg",
+          "ItemDescription": "Delicious Prawns Biriyani with bio prawns and hand picked spices giving an aroma",
+          "ItemPrice": "$20.00"
+      },
+      {
+          "ItemName":"Mushrooms Biriyani",
+          "ItemImage":"https://f.hubspotusercontent00.net/hubfs/4662006/Beverage_compounds_drinks.jpg",
+          "ItemDescription": "Flavourful Mushrooms Biriyani with mountain picked tasty mushrooms having mild flavour",
+          "ItemPrice": "$18.00"
+      },    
+      {
+          "ItemName":"Egg Biriyani",
+          "ItemImage":"https://the-baklawa-box.myshopify.com/cdn/shop/products/assorted-indian-fusion-sweets-400g-119845_400x.jpg?v=1677085667",
+           "ItemDescription": "Tasty Egg Biriyani completely made with ghee and basmatic rice roasted in aromatic spices",
+          "ItemPrice": "$20.00"
+      },
+      {
+          "ItemName":"Veg Biriyani",
+          "ItemImage":"https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2022/08/Ice-cream-sundae-hero-11.jpg",
+          "ItemDescription": "Mild flavoured Vegetable Biriyani with loaded veggies and cashews",
+          "ItemPrice": "$15.00"
+      }
+    ]
+}
