@@ -1,0 +1,40 @@
+{
+    "Beverages_Menu":[
+      {
+          "ItemName":"Banana Milkshake",
+	        "ItemImage":"https://assets.epicurious.com/photos/647df8cea0ddfab1629e49d4/4:3/w_5092,h_3819,c_limit/BananaShake_RECIPE_053123_3647.jpg",
+          "ItemPrice": "$10.00",
+          "ItemId":"beveragesMenu"
+      },
+      {
+          "ItemName":"Strawberry Milkshake",
+          "ItemImage":"https://www.meatloafandmelodrama.com/wp-content/uploads/2024/04/strawberry-milkshake-square-1.jpg",
+          "ItemPrice": "$15.00",
+	        "ItemId":"beveragesMenu"
+      },
+      {
+          "ItemName":"Blueberry Milkshake",
+          "ItemImage":"https://www.cookwithnabeela.com/wp-content/uploads/2024/02/BlueberryMilkshake-500x375.webp",
+          "ItemPrice": "$12.00",
+	        "ItemId":"beveragesMenu"
+      },
+      {
+          "ItemName":"Sweet Lassi",
+          "ItemImage":"https://pipingpotcurry.com/wp-content/uploads/2021/05/Lassi-in-a-glass.jpg",
+          "ItemPrice": "$15.00",
+	        "ItemId":"beveragesMenu"
+      },    
+      {
+          "ItemName":"Chocolate Milkshake",
+          "ItemImage":"https://www.mrishtanna.com/wp-content/uploads/2018/04/vegan-chocolate-milkshake-recipe.jpg",
+          "ItemPrice": "$15.00",
+	        "ItemId":"beveragesMenu"
+      },
+      {
+          "ItemName":"Cappuccino",
+          "ItemImage":"https://lorcoffee.com/cdn/shop/articles/Cappuccino-exc.jpg?v=1684870907",
+          "ItemPrice": "$15.00",
+	        "ItemId":"beveragesMenu"
+      }
+    ]
+}
