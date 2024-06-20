@@ -3,31 +3,31 @@
       {
           "ItemName":"North Indian Veg Thali",
 	  "ItemImage":"https://i.ytimg.com/vi/un3Jp5Ccbz4/maxresdefault.jpg",
-          "ItemPrice": "$10.00",
+          "ItemPrice": "$30.00",
           "ItemId":"thalisMenu"
       },
       {
           "ItemName":"North Indian Non Veg Thali",
           "ItemImage":"https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
-          "ItemPrice": "$15.00",
+          "ItemPrice": "$35.00",
 	  "ItemId":"thalisMenu"
       },
       {
           "ItemName":"South Indian Veg Thali",
           "ItemImage":"https://lh5.googleusercontent.com/-mQ9Mxn9J73Q/UgYVlJDecsI/AAAAAAAAKvY/c-HxhdyYbu8/s576/South%2520Indian%2520Thaali02.JPG",
-          "ItemPrice": "$12.00",
+          "ItemPrice": "$30.00",
 	  "ItemId":"thalisMenu"
       },
       {
           "ItemName":"South Indian Non Veg Thali",
           "ItemImage":"https://i.ytimg.com/vi/CBmqWor2G6g/maxresdefault.jpg",
-          "ItemPrice": "$15.00",
+          "ItemPrice": "$35.00",
 	  "ItemId":"thalisMenu"
       },    
       {
           "ItemName":"Kerala Sadhya",
           "ItemImage":"https://media.assettype.com/homegrown/import/book/kuhwlbayxs-1533040300.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-          "ItemPrice": "$15.00",
+          "ItemPrice": "$35.00",
 	  "ItemId":"thalisMenu"
       }
     ]
