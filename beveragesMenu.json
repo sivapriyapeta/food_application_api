@@ -3,7 +3,7 @@
       {
           "ItemName":"Banana Milkshake",
 	  "ItemImage":"https://assets.epicurious.com/photos/647df8cea0ddfab1629e49d4/4:3/w_5092,h_3819,c_limit/BananaShake_RECIPE_053123_3647.jpg",
-          "ItemPrice": "$10.00",
+          "ItemPrice": "$15.00",
           "ItemId":"beveragesMenu"
       },
       {
@@ -15,7 +15,7 @@
       {
           "ItemName":"Blueberry Milkshake",
           "ItemImage":"https://www.cookwithnabeela.com/wp-content/uploads/2024/02/BlueberryMilkshake-500x375.webp",
-          "ItemPrice": "$12.00",
+          "ItemPrice": "$15.00",
 	  "ItemId":"beveragesMenu"
       },
       {
