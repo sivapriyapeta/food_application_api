@@ -1,0 +1,40 @@
+{
+    "IceCream_Menu":[
+      {
+          "ItemName":"Chocolate",
+	        "ItemImage":"https://www.cuisinart.com/globalassets/recipes/recipe_160_822976761.jpg",
+          "ItemPrice": "$12.00",
+          "ItemId":"iceCreamMenu"
+      },
+      {
+          "ItemName":"Vanilla",
+          "ItemImage":"https://www.thebirchcottage.com/wp-content/uploads/Homemade-Vanilla-Ice-Cream-Base-Recipe-2022-01.png",
+          "ItemPrice": "$12.00",
+	        "ItemId":"iceCreamMenu"
+      },
+      {
+          "ItemName":"Strawberry",
+          "ItemImage":"https://www.recipetineats.com/uploads/2018/07/Strawberry-Ice-Cream-No-Churn_3b.jpg",
+          "ItemPrice": "$12.00",
+	        "ItemId":"iceCreamMenu"
+      },
+      {
+          "ItemName":"Mango",
+          "ItemImage":"https://veenaazmanov.com/wp-content/uploads/2017/08/Homemade-Mango-Ice-Cream-No-Churn-Recipe5.jpg",
+          "ItemPrice": "$12.00",
+	        "ItemId":"iceCreamMenu"
+      },    
+      {
+          "ItemName":"Casata",
+          "ItemImage":"https://thecinnamonjar.com/wp-content/uploads/2022/12/cassata-ice-cream-15-of-4.jpg",
+          "ItemPrice": "$22.00",
+	        "ItemId":"iceCreamMenu"
+      },
+      {
+          "ItemName":"Blueberry",
+          "ItemImage":"https://reneenicoleskitchen.com/wp-content/uploads/2020/06/Blueberry-Ice-Cream-Image-1.jpg",
+          "ItemPrice": "$18.00",
+	        "ItemId":"iceCreamMenu"
+      }
+    ]
+}
