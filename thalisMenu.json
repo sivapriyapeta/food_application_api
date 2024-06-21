@@ -1,25 +1,25 @@
 {
     "Thalis_Menu":[
       {
-          "ItemName":"North Indian Veg Thali",
+          "ItemName":"North Indian Veg",
 	  "ItemImage":"https://i.ytimg.com/vi/un3Jp5Ccbz4/maxresdefault.jpg",
           "ItemPrice": "$30.00",
           "ItemId":"thalisMenu"
       },
       {
-          "ItemName":"North Indian Non Veg Thali",
+          "ItemName":"North Indian Non Veg",
           "ItemImage":"https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/1/2021_1$largeimg_1922831586.jpg",
           "ItemPrice": "$35.00",
 	  "ItemId":"thalisMenu"
       },
       {
-          "ItemName":"South Indian Veg Thali",
+          "ItemName":"South Indian Veg",
           "ItemImage":"https://lh5.googleusercontent.com/-mQ9Mxn9J73Q/UgYVlJDecsI/AAAAAAAAKvY/c-HxhdyYbu8/s576/South%2520Indian%2520Thaali02.JPG",
           "ItemPrice": "$30.00",
 	  "ItemId":"thalisMenu"
       },
       {
-          "ItemName":"South Indian Non Veg Thali",
+          "ItemName":"South Indian Non Veg",
           "ItemImage":"https://i.ytimg.com/vi/CBmqWor2G6g/maxresdefault.jpg",
           "ItemPrice": "$35.00",
 	  "ItemId":"thalisMenu"
