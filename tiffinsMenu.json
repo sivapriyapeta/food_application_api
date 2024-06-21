@@ -44,14 +44,14 @@
       },
       {
           "ItemName":"Medu Vada",
-          "ItemImage":"https://www.secondrecipe.com/wp-content/uploads/2019/12/medu-wada.jpg",
+          "ItemImage":"https://i.ytimg.com/vi/Amn7p5CXdzc/maxresdefault.jpg",
           "ItemPrice": "$10.00",
 	  "ItemId":"tiffinsMenu",
 	  "ItemType":"Vada"
       },
       {
           "ItemName":"Onion Medu Vada",
-          "ItemImage":"https://www.indoindians.com/wp-content/uploads/2018/05/Medu-Vada-Sambhar-Coconut-Chutney-Tomato-Chutney.jpg",
+          "ItemImage":"https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2018/07/Medu-Vada-Insta-01.jpg",
           "ItemPrice": "$12.00",
 	  "ItemId":"tiffinsMenu",
 	  "ItemType":"Vada"
