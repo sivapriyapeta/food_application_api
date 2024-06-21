@@ -4,55 +4,92 @@
           "ItemName":"Idly",
 	  "ItemImage":"https://as1.ftcdn.net/v2/jpg/00/92/06/02/1000_F_92060252_rqdDOdCz9MD6A1PkZWJPtKfPbTDgTbWB.jpg",
           "ItemPrice": "$10.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Idly"
+      },
+      {
+          "ItemName":"Ghee Podi Idly",
+	  "ItemImage":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/12/podi-idli-recipe-480x270.jpg",
+          "ItemPrice": "$12.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Idly"
       },
       {
           "ItemName":"Onion Dosa",
-          "ItemImage":"https://parottaexpress.com/wp-content/uploads/2023/11/Onion-Masala-Dosa.jpg",
+          "ItemImage":"https://guruindiancuisine.com/wp-content/uploads/2024/06/onion-dosa.jpg",
           "ItemPrice": "$15.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
       },
       {
-          "ItemName":"Vada",
-          "ItemImage":"https://c.ndtvimg.com/2023-08/cds65egg_medu-vada_625x300_08_August_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+          "ItemName":"Medu Vada",
+          "ItemImage":"https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/medu-vada-1.jpg",
+          "ItemPrice": "$10.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Vada"
+      },
+      {
+          "ItemName":"Onion Medu Vada",
+          "ItemImage":"https://www.secondrecipe.com/wp-content/uploads/2019/12/medu-wada.jpg",
           "ItemPrice": "$12.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Vada"
+      },
+      {
+          "ItemName":"Chilli Gaare",
+          "ItemImage":"https://i.ytimg.com/vi/DMx15HyrbL0/maxresdefault.jpg",
+          "ItemPrice": "$12.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Vada"
       },
       {
           "ItemName":"Poori",
           "ItemImage":"https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
           "ItemPrice": "$15.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Others"
       },    
       {
           "ItemName":"Masala Dosa",
           "ItemImage":"https://i0.wp.com/amomscookbook.com/wp-content/uploads/2019/07/IMG_9648-2.jpg?resize=730%2C487&ssl=1",
           "ItemPrice": "$15.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
       },
       {
           "ItemName":"Ghee karam Dosa",
           "ItemImage":"https://vanitascorner.com/wp-content/uploads/2018/10/Ulli-Karam-Dosa.jpg",
           "ItemPrice": "$15.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
       },
       {
           "ItemName":"Plain Dosa",
           "ItemImage":"https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
           "ItemPrice": "$10.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
       },
       {
           "ItemName":"Pongal",
           "ItemImage":"https://bonmasala.com/wp-content/uploads/2022/12/pongal-recipe.webp",
           "ItemPrice": "$20.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Others"
       },
       {
           "ItemName":"Utappam",
           "ItemImage":"https://www.honeywhatscooking.com/wp-content/uploads/2022/06/Rava-Uttapam2.jpg",
           "ItemPrice": "$15.00",
-	  "ItemId":"tiffinsMenu"
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
+      },
+      {
+          "ItemName":"Upma",
+          "ItemImage":"https://www.dwarakaorganic.com/wp-content/uploads/2022/04/Upma-870x470.jpg",
+          "ItemPrice": "$12.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Others"
       }
     ]
 }
