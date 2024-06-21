@@ -22,15 +22,36 @@
 	  "ItemType":"Dosa"
       },
       {
+          "ItemName":"Plain Pesarattu",
+          "ItemImage":"https://i.ytimg.com/vi/c0PQz7TF7RQ/maxresdefault.jpg",
+          "ItemPrice": "$12.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
+      },
+      {
+          "ItemName":"Onion Pesarattu",
+          "ItemImage":"https://redchillycurry.com/wp-content/uploads/2012/07/pesarattu.jpg",
+          "ItemPrice": "$15.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
+      },
+      {
+          "ItemName":"Upma Pesarattu",
+          "ItemImage":"https://res.cloudinary.com/roundglass/image/upload/w_1400,f_auto/v1697469276/rg/collective/media/rg-food-in-upma-pesarattu-rakesh-raghunathan-may2022-001-16x9-1697469275094.jpg",
+          "ItemPrice": "$18.00",
+	  "ItemId":"tiffinsMenu",
+	  "ItemType":"Dosa"
+      },
+      {
           "ItemName":"Medu Vada",
-          "ItemImage":"https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/medu-vada-1.jpg",
+          "ItemImage":"https://www.secondrecipe.com/wp-content/uploads/2019/12/medu-wada.jpg",
           "ItemPrice": "$10.00",
 	  "ItemId":"tiffinsMenu",
 	  "ItemType":"Vada"
       },
       {
           "ItemName":"Onion Medu Vada",
-          "ItemImage":"https://www.secondrecipe.com/wp-content/uploads/2019/12/medu-wada.jpg",
+          "ItemImage":"https://www.indoindians.com/wp-content/uploads/2018/05/Medu-Vada-Sambhar-Coconut-Chutney-Tomato-Chutney.jpg",
           "ItemPrice": "$12.00",
 	  "ItemId":"tiffinsMenu",
 	  "ItemType":"Vada"
